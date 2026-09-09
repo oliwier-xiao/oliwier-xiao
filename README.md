@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=58A6FF&background=0D1117&width=350&height=60&lines=IT+Support+Specialist" alt="Typing effect"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=58A6FF&background=0D1117&width=600&height=60&lines=Full-Stack+%26+DevOps;IT+Support+Specialist;n8n+AI+Automation+%26+API+Integration" alt="Typing effect"/>
 </div>
 
 <p align="center">
@@ -52,6 +52,7 @@ Whether you need a single automated pipeline or a complete web app — **let’s
 
 ### 🌐 Web Development
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
