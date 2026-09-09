@@ -14,9 +14,9 @@
 ## 👋 About Me
 
 Hello! I'm Oliwier. I build production-grade full-stack web apps and automations that take work off your plate — from idea to live deployment.
-• AI Agents & LLM integration
-• n8n & Python workflow automation
-• Full-stack web development
+- AI Agents & LLM integration
+- n8n & Python workflow automation
+- Full-stack web development
 Whether you need a single automated pipeline or a complete web app — let’s talk.
 
 **Currently:** Working as IT Support Specialist, handling technical support, system administration, web app development, and business process automation.
