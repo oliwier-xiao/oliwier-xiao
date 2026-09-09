@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=58A6FF&background=0D1117&width=600&height=60&lines=Full-Stack+%26+DevOps;IT+Support+Specialist;n8n+AI+Automation+%26+API+Integration" alt="Typing effect"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=58A6FF&background=0D1117&center=true&vCenter=true&width=600&height=60&lines=Full-Stack+%26+DevOps;IT+Support+Specialist;n8n+AI+Automation+%26+API+Integration" alt="Typing effect"/>
 </div>
 
 <p align="center">
@@ -59,6 +59,8 @@ Whether you need a single automated pipeline or a complete web app — **let’s
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=database&logoColor=white)
 
 ### ☸️ DevOps & Containerization
